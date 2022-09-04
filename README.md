@@ -18,3 +18,7 @@ In this project we will try to · Which team has the longest winning streak. Is 
 **Confusion Matrix for Match result based on home or away team.**
 
 ![image](https://user-images.githubusercontent.com/97900391/188322568-257448d8-9925-413d-8068-52608ceea26d.png)
+
+**Dataset column description**
+
+![image](https://user-images.githubusercontent.com/97900391/188324164-68fc7c35-ff29-4301-9175-44dae20819b2.png)
