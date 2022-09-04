@@ -17,3 +17,7 @@ In this project we will try to · Which team has the longest winning streak. Is 
 **Confusion Matrix for Match result based on home or away team.**
 
 ![image](https://user-images.githubusercontent.com/97900391/188322568-257448d8-9925-413d-8068-52608ceea26d.png)
+
+**Assignment 2 Comments (from phillijo)**
+- This seems like a pretty cool idea!
+- It might be interesting to explore whether your model can predict the winner of a head-to-head matchup between two given teams based on their performances in previous World Cups, or based on previous head-to-head matchups between the same teams.
