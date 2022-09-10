@@ -23,3 +23,7 @@ In this project we will try to · Which team has the longest winning streak. Is 
 **Dataset column description**
 
 ![image](https://user-images.githubusercontent.com/97900391/188324164-68fc7c35-ff29-4301-9175-44dae20819b2.png)
+
+**Assignment 2 Comments (from phillijo)**
+- This seems like a pretty cool idea!
+- It might be interesting to explore whether your model can predict the winner of a head-to-head matchup between two given teams based on their performances in previous World Cups, or based on previous head-to-head matchups between the same teams.
