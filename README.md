@@ -1,6 +1,7 @@
 # FIFA 2022
 
 **Background**
+
 The FIFA World Cup is the most prestigious football tournament in the world. The championship has been awarded every four years since the start of the tournament in 1930.
 
 In this Project, we will use https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022.
